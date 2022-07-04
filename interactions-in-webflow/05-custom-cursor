@@ -1,0 +1,5 @@
+<style> 
+  .cursor-wrapper {
+    pointer-events: none;
+  } 
+</style>
